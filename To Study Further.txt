@@ -1,0 +1,8 @@
+what is variants in tailwind css?
+===========================
+variants: {
+    extend: {
+      backgroundImage: ["dark"],
+    },
+  },
+
